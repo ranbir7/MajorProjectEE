@@ -1,6 +1,6 @@
 clc; clear; close all;
 
-selected_fault = 'BATT'; % Changed to battery fault
+selected_fault = 'ABG'; % Changed to battery fault
 Fs = 2000;
 fault_positions = [0.4, 0.5, 0.6, 0.7];
 fault_types = {'AG', 'BG', 'CG', 'AB', 'AC', 'BC', 'ABG', 'ACG', 'BCG', 'ABC', 'ABCG', 'BATT'}; % Added BATT

@@ -1,0 +1,8 @@
+Objective: Observe BESS response when grid voltage sags by 30%.
+
+Simulation Details: Used Programmable Voltage Source + V-I Measurement block to visualize sag.
+
+What It Proves: System with voltage-forming control can support grid without disconnection.
+
+Derived From:
+🔹 IEEE 2024 Paper – “Grid-Connected Control Strategies…”

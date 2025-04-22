@@ -1,0 +1,15 @@
+IEEE 2024 Paper – "Characterization of Short-circuit Faults…”
+
+Why are the batteries connected in parallel?
+So they all share the same voltage but can supply different currents.
+
+If one battery fails, others can still support the load.
+
+Objective: Simulate disconnection of one battery and monitor SOC freeze.
+
+Simulation Details: Used Breaker block controlled by Step signal; SOC of Battery2 froze, others took over.
+
+What It Proves: Disconnected batteries freeze SOC; others compensate, causing imbalance.
+
+Derived From:
+🔹

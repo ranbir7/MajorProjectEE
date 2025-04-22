@@ -1,0 +1,15 @@
+What you did: Injected a fault (short circuit) in Battery1 cluster.
+
+What you observed: SOC imbalance — Battery1 discharges, others don’t.
+
+Reference: Section 5.2 of the report​
+
+ref:
+Huang, R., Tan, J., Liu, W., & Zhang, J. (2020).
+“Voltage Sag Ride-Through Strategy for Grid-Connected Battery Energy Storage Systems”
+IEEE Transactions on Smart Grid, Vol. 11, No. 6, pp. 5153–5162.
+DOI: 10.1109/TSG.2020.3009765
+
+
+Derived From:
+🔹 IEEE 2024 Conference - “A New Fault-Tolerant Control...”
